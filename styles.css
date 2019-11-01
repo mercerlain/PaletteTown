@@ -1,0 +1,199 @@
+@font-face {
+  font-family: "Coda";
+  src: url("fonts/coda/Coda-Regular.ttf");
+}
+
+body {
+  text-align: left;
+  font-size: x-large;
+  font-family: 'Coda', open-sans;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: FloralWhite;
+}
+
+a:hover {
+  color: Lime;
+}
+
+a:visited {
+  color: Snow;
+}
+
+p {
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+.AParadeOfChangingMoods {
+  background: Black;
+}
+
+.APhantomThatFollows {
+  background: maroon;
+}
+
+.Archaeology {
+  background: #3366cc;
+  color: black;
+}
+
+.Bubbles {
+  background: dodgerblue;
+}
+
+.Dance {
+  background: #a3297a;
+}
+
+.DeepEnds {
+  background: #6600ff;
+}
+
+.DIVESRoom {
+  background: #ff9900;
+}
+
+.ElectroLab {
+  background: lightseagreen;
+}
+
+.FeelsWithinFeels {
+  background: gold;
+  color: black;
+}
+
+.FixItInPost {
+  background: orangered;
+}
+
+.FloraImageRadio {
+  background: #ff0c58;
+}
+
+.Focus {
+  background: mediumvioletred;
+
+}
+
+.GradientRainbowSky {
+  background: palevioletred;
+}
+
+.GreenImageRadio {
+  background: teal;
+}
+
+.HouseTalk1 {
+  background: forestgreen;
+  color: black;
+}
+
+.HumanGravity {
+  background: #333333;
+}
+
+.IKnowAWoman {
+  background: Gainsboro;
+  color: black;
+}
+
+.Invisibility {
+  background: #ff4d4d;
+  color: black;
+}
+
+.LoveAsSomeoneElse {
+  background: red;
+  color: black;
+}
+
+.ManyWorlds {
+  background: #669999;
+  color: black;
+}
+
+.MoodExplorers {
+  background: #fff099;
+  color: black;
+}
+
+.NoTaste {
+  background: DarkSlateBlue;
+}
+
+.OpenDarkOcean {
+  background: #4d4dff;
+}
+
+.OutOfTheWorld {
+  background: #ccccff;
+}
+
+.Shapeshifter {
+  background: #9999ff;
+}
+
+.SlashSlash {
+  background: #4d2600;
+}
+
+.SmallWorld {
+  background: #99003d;
+}
+
+.Snooze {
+  background: #ff99cc;
+  color: black;
+}
+
+.SnoozeLore1 {
+  background: #00ebd6;
+}
+
+.Source {
+  background: white;
+  color: black;
+}
+
+.ThePoeticsOfImmensity {
+  background: #66ccff;
+}
+
+.TheTableauOfDiligentRecordKeeping {
+  background: lime;
+  color: black;
+}
+
+.ThisPlaceIsWishyWashy {
+  background: navy;
+}
+
+.ThisWorldIsStillForming {
+  background: #ffcc99;
+  color: black;
+}
+
+.TrappingMyself {
+  background: GoldenRod;
+  color: black;
+}
+
+.TryNotToPanic {
+  background: #eb99ff;
+  color: black;
+}
+
+.VisitYourNeighbors {
+  background: yellow;
+  color: black;
+}
+
+.WillIBeAbleToDealWithThis {
+  background: olivedrab;
+}
+
+.WorldWash {
+  background: #c1f0f0;
+  color: black;
+}
